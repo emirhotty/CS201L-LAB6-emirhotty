@@ -1,0 +1,136 @@
+
+
+PROCESSING A SET OF MATRICES
+
+	PROCESSING FIRST MATRIX
+1 1 0 
+1 1 0 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING SECOND MATRIX
+0 1 
+0 1 
+0 1 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING BOTH MATRICES
+Unable to add Matrices: size mismatch.
+0 2 
+0 2 
+
+
+PROCESSING A SET OF MATRICES
+
+	PROCESSING FIRST MATRIX
+0 1 1 0 
+0 1 1 0 
+0 1 1 1 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING SECOND MATRIX
+0 0 1 1 
+1 1 0 1 
+1 0 0 1 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING BOTH MATRICES
+0 1 2 1 
+1 2 1 1 
+1 1 1 2 
+Unable to multiply Matrices: size mismatch.
+
+
+PROCESSING A SET OF MATRICES
+
+	PROCESSING FIRST MATRIX
+1 1 0 
+0 1 0 
+1 0 1 
+Matrix is reflexive.
+Matrix is not symmetric.
+
+	PROCESSING SECOND MATRIX
+1 0 1 
+0 1 0 
+1 0 0 
+Matrix is not reflexive.
+Matrix is symmetric.
+
+	PROCESSING BOTH MATRICES
+2 1 1 
+0 2 0 
+2 0 1 
+1 1 1 
+0 1 0 
+2 0 1 
+
+
+PROCESSING A SET OF MATRICES
+
+	PROCESSING FIRST MATRIX
+1 0 1 0 
+1 0 0 0 
+1 0 0 0 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING SECOND MATRIX
+1 0 1 
+1 0 1 
+0 0 0 
+1 1 1 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING BOTH MATRICES
+Unable to add Matrices: size mismatch.
+1 0 1 
+1 0 1 
+1 0 1 
+
+
+PROCESSING A SET OF MATRICES
+
+	PROCESSING FIRST MATRIX
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+Matrix is reflexive.
+Matrix is symmetric.
+
+	PROCESSING SECOND MATRIX
+1 1 0 0 
+1 0 1 0 
+0 1 0 1 
+0 0 1 1 
+Matrix is not reflexive.
+Matrix is symmetric.
+
+	PROCESSING BOTH MATRICES
+2 1 0 0 
+1 1 1 0 
+0 1 1 1 
+0 0 1 2 
+1 1 0 0 
+1 0 1 0 
+0 1 0 1 
+0 0 1 1 
+
+
+PROCESSING A SET OF MATRICES
+
+	PROCESSING FIRST MATRIX
+1 1 1 1 1 
+0 1 1 1 1 
+0 0 1 1 1 
+0 0 0 1 1 
+0 0 0 0 1 
+Matrix is reflexive.
+Matrix is not symmetric.
+
+	PROCESSING SECOND MATRIX
+1 1 1 1 0 
+Cannot determine reflexive/symmetric: Invalid dimensions
+
+	PROCESSING BOTH MATRICES
+Unable to add Matrices: size mismatch.
+Unable to multiply Matrices: size mismatch.
